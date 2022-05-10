@@ -1,0 +1,14 @@
+{
+    "name": "maureencoder/demo",
+    "description": "test project",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "maureen",
+            "email": "3173496669@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
